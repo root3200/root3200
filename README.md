@@ -1,6 +1,6 @@
 
 
-<h1 align="center">💻 I am Jonathan</h1>
+<h1 align="left">💻 I am Jonathan</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
