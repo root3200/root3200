@@ -11,3 +11,5 @@
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=root3200&theme=dracula)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=root3200&theme=dracula)
