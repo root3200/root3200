@@ -1,7 +1,6 @@
 
 
 <h1 align="center">💻 I am Jonathan</h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=B81FF7&background=77FF3500&width=432&lines=I+am+a+ctf+player%2C+passionate+about+information+technology)](https://git.io/typing-svg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
